@@ -1,10 +1,3 @@
-That is a great step! Adding an open-source license like MIT is a best practice for GitHub repositories. 
-
-While the rest of your README will stay exactly the same, it is highly recommended to add a **"License"** section at the bottom so visitors know your project's permissions at a glance.
-
-Here is the updated `README.md` file with the new License section added right above the Disclaimer. You can copy and paste this to replace your current README content.
-
-***
 
 ```markdown
 # Custom Payload Encoder & Obfuscation Framework
